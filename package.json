@@ -1,0 +1,14 @@
+{
+  "name": "ai-overprint",
+  "version": "1.0.0",
+  "description": "Overprint (blur + threshold) look as live vector effects in Illustrator",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w"
+  },
+  "devDependencies": {
+    "types-for-adobe": "^7.2.6",
+    "typescript": "5.4.5"
+  },
+  "private": true
+}

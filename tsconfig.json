@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "target": "ES3",
+    "ignoreDeprecations": "5.0",
+    "module": "none",
+    "noLib": true,
+    "strict": true,
+    "types": [],
+    "removeComments": false,
+    "outFile": "dist/overprint.jsx"
+  },
+  "files": [
+    "node_modules/types-for-adobe/shared/JavaScript.d.ts",
+    "node_modules/types-for-adobe/Illustrator/2022/index.d.ts",
+    "src/overprint.ts"
+  ]
+}
